@@ -9,7 +9,7 @@ This plugin will create an addtional tab to your OctoPrint settings which will d
 Install via the bundled [Plugin Manager](https://github.com/foosel/OctoPrint/wiki/Plugin:-Plugin-Manager)
 or manually using this URL:
 
-    https://github.com/yourGithubName/OctoPrint-geeks3d/archive/master.zip
+    https://github.com/2BWorks/OctoPrint_3DGeeks/archive/master.zip
 
 ## Usage
 
